@@ -1,0 +1,2 @@
+program=./write4
+stdin=./payload.bin

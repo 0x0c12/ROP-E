@@ -1,0 +1,2 @@
+program = ./badchars
+stdin=payload.bin

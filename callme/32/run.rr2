@@ -1,0 +1,2 @@
+program=./callme32
+stdin=./payload.bin
